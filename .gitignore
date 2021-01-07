@@ -105,3 +105,7 @@ dist
 
 #testing
 testing/
+python/test.py
+
+#the worst language on the planet earth
+*__pycache__*
