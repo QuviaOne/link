@@ -1,0 +1,22 @@
+{
+  "name": "quvia-link",
+  "version": "1.0.0",
+  "description": "A simple library for creating quvia links",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuviaOne/link.git"
+  },
+  "author": "jiricekcz galook",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QuviaOne/link/issues"
+  },
+  "homepage": "https://github.com/QuviaOne/link#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
